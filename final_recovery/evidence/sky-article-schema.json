@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "alternativeHeadline": "Robert Jenrick sacked from Tory shadow cabinet for 'plotting to defect'",
+  "articleBody": "Robert Jenrick has been sacked from the Tories' shadow cabinet for \"plotting in secret to defect\", Kemi Badenoch has said.  <p>The Conservative leader did not say which party Mr Jenrick was planning to switch to, but Reform UK leader Nigel Farage said he has \"of course\" had conversations with the senior frontbencher.</p><p><strong>Politics Live: <a href=\"https://news.sky.com/story/politics-latest-starmer-labour-trump-lammy-vance-tankers-greenland-threats-nato-12593360\" target=\"_blank\">Conservatives throw support behind Robert Jenrick sacking </a></strong></p><p>Mr Jenrick was Ms Badenoch's shadow justice secretary, and has long attracted speculation about leadership ambitions since being beaten by her in his bid to take over the party's reins in 2024.</p><p>The Newark MP has also been suspended from the parliamentary party, meaning he will sit as an independent unless he defects to another.</p><p>In a statement on X, Ms Badenoch said: \"I have sacked Robert Jenrick from the shadow cabinet, removed the whip and suspended his party membership with immediate effect.</p><p>\"I was presented with clear, irrefutable evidence that he was plotting in secret to defect in a way designed to be as damaging as possible to his shadow cabinet colleagues and the wider Conservative Party.\"</p><p>She added: \"The British public are tired of political psychodrama and so am I. They saw too much of it in the last government, they're seeing too much of it in this government.</p><p>\"I will not repeat those mistakes.\"</p><p>Several Conservative figures have told Sky News they welcome Mr Jenrick's departure, with a former housing minister branding him a \"dishonest snake\". But one backbencher said they feared this has \"brought civil war in the party into the open\".</p><p>Conservative sources have told Sky News that Ms Badenoch discovered Mr Jenrick's plans after his team left \"stuff\" lying around.</p><widget id=\"3\"></widget><p>They accidentally left material that showed he had been speaking to Mr Farage, including at a dinner last month, it is understood.</p><p>Reacting to Ms Badenoch's announcement, the Reform leader insisted he was \"very surprised\" the news had broken and would \"never reveal private conversations\".</p><p>But asked whether he had been in talks with the former Tory frontbencher, he told a press conference: \"Of course, I've talked to Robert Jenrick. Was I on the verge of signing a document with him? No. But have we had conversations? Yes.\"</p><p>Mr Jenrick was previously in the moderate \"one nation\" wing of the Conservative Party, before moving to the right on issues like Europe and immigration. He recently caused a row for <strong><a href=\"https://news.sky.com/story/politics-latest-starmer-labour-trump-lammy-vance-tankers-greenland-threats-nato-12593360\" target=\"_blank\">bemoaning the lack of visible white faces in a part of Birmingham</a>, </strong>while his vocal calls to leave the European Convention on Human Rights associate most closely with Reform.</p><p><strong>'Dishonest snake'</strong></p><p>Some veteran Tories have welcomed his sacking with Rachel Maclean - a former housing minister and now Conservative peer - branding him a \"dishonest snake\".</p><p>She told Sky News: \"Good riddance, not at all surprised given his track record. Kemi displaying strong leadership and members welcome this - we need to get rid of these dishonest snakes.\"</p><p>Former defence minister Tobias Ellwood also said this would make it easier for the Conservatives to come back from their 2024 election defeat.</p><p>He said: \"After big election defeats it takes time, in opposition, to confirm your fresh message and where you sit in the political spectrum - in order to appeal beyond your base. This is made easier when those seeking further drift to the right choose to defect.\"</p> <widget id=\"6\"></widget><p>Another senior MP, Bob Blackman, said he was \"sad to lose\" Mr Jenrick but praised Ms Badenoch for \"strong and decisive leadership\".</p><p>He said that was a \"complete contrast to the weakness of the PM and his constant U-turns\".</p><p>Greg Smith, another backbench MP, also welcomed Ms Badenoch's \"no-nonsense approach\", saying she has \"incredibly strong support from the Conservative benches right now\" as she is leading the party into a \"revival\".</p><p>\"A no-nonsense approach to anyone looking outside the tent will only strengthen that\", he said.</p><p>Keith Girling, the chair of Mr Jenrick's local Newark Association, told Sky News: \"I am devastated about it, I feel betrayed. We have supported Robert with his political ambitions over the years and given him the opportunity to do what he did, so to be stabbed in the back by him, I do not feel good about that.\"</p><p>However, another backbench MP, choosing to stay anonymous, said: \"This has brought the civil war in the party into the open.\"</p><p>They added: \"I definitely don't think he was about to defect - the consensus is he would have waited until May to challenge her, depending on what happens in the local elections, and he would have had a good chance of winning.\"</p><p>Sky News has contacted Mr Jenrick for comment.</p><p><strong>Tories enjoy poll bounce</strong></p><p>Ms Badenoch is enjoying a small bounce in the polls, suggesting the party is starting to recover from rock bottom after the 2024 general election defeat which ended 14 years in government.</p><p>Supporters credit her strong attacks on Labour over tax and welfare - shoring up a position that seemed fragile when she first took over the party in November 2024.</p><p>Several high-profile figures have defected to Reform over the past year - <strong><a href=\"https://news.sky.com/story/ex-tory-chancellor-nadhim-zahawi-latest-conservative-to-join-reform-uk-13493445\" target=\"_blank\">most recently the former vaccines minister Nadhim Zahawi.</a></strong></p><p>Lots of Conservatives believe the party needs to move to the right to beat Reform, but others support a centrist approach.</p><p>New YouGov polling suggests a downward trend in support for Reform - although the party remains above both the Conservatives and Labour.</p><p>And some Reform insiders are<strong><a href=\"https://news.sky.com/story/mixed-reaction-to-zahawi-defection-within-reform-as-poll-puts-party-at-lowest-level-in-months-13493618\" target=\"_blank\"> uneasy about recent Conservative defections</a></strong>, worrying it looks like naked opportunism from fallen figures.</p><p>Reacting to Mr Jenrick's sacking, Labour Party chair Anna Turley said: \"Badenoch has lost control of her party, and the architects of 14 years of Tory failure are now scuttling off to inflict their same chaos through Farage's Reform.\"</p><p>Lib Dem leader Sir Ed Davey said: \"This is one more rat leaving a sinking ship.\"</p>",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "url": "/story/robert-jenrick-sacked-from-tory-shadow-cabinet-for-plotting-to-defect-13494578"
+  },
+  "wordCount": "1099",
+  "inLanguage": "en-GB",
+  "genre": "politics",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "#Publisher",
+    "name": "Sky",
+    "logo": {
+      "@type": "ImageObject",
+      "@id": "#Logo",
+      "url": "https://news.sky.com/assets/sky-news-logo.svg?v&#x3D;1",
+      "width": "255",
+      "height": "60"
+    }
+  },
+  "headline": "Robert Jenrick sacked from Tory shadow cabinet for &#x27;plotting to defect&#x27;",
+  "description": "Several Conservative figures have welcomed his departure, with a former housing minister telling Sky News he is a \"dishonest snake\". ",
+  "dateline": "London, UK",
+  "copyrightHolder": {
+    "@id": "#Publisher"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Faye Brown",
+    "sameAs": "https://x.com/@fayebrownSky",
+    "url": "https://news.sky.com/author/faye-brown-851"
+  },
+  "datePublished": "2026-01-15T11:09:00Z",
+  "dateModified": "2026-01-15T14:50:29Z",
+  "dateCreated": "2026-01-15T11:11:38Z",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://e3.365dm.com/25/10/2048x1152/skynews-robert-jenrick-court_7046784.jpg",
+    "width": 2048,
+    "height": 1152
+  },
+  "url": "/story/robert-jenrick-sacked-from-tory-shadow-cabinet-for-plotting-to-defect-13494578"
+}

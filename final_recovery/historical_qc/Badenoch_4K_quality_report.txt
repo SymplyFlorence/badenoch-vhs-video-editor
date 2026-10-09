@@ -1,0 +1,64 @@
+BADENOCH DOCUMENTARY — 4K QUALITY REPORT
+Date: 9 October 2026
+Status: LOCAL RENDER COMPLETE. Technical QC passed. Listening review and Drive delivery remain outstanding.
+
+EXPORT — MEASURED WITH FFPROBE
+File: Badenoch_documentary_FINAL_4K.mp4
+Resolution: 3840 x 2160; 16:9; square pixels
+Frame rate: 30/1 (30 fps), constant frame rate
+Frame count: 900
+Video: H.264 / yuv420p; libx264 CRF 18, preset fast
+Audio: AAC stereo, 48000 Hz; encoded at 256 kb/s
+Container/video/audio duration: 30.000000 seconds each
+File size: 40283921 bytes
+Fast-start: PASS; moov begins at byte 32, before mdat at byte 33755
+SHA256: faed72ed5740d78ff4568581ef035600e0bcc0bf0668898163173b9766341392
+
+SOURCE QUALITY
+Original master Drive ID: 1yRy30VswuWiytEBTy6hm781Gd69FXe4D
+Original: 3840 x 2160 / 30 fps / H.264 yuv420p; 711.552993 seconds; 2,009,538,306 bytes.
+Original SHA256: 813f122827087e16802664fecbe82c3e61a6eeacb6335df7e2e9908d04cfad90
+All presenter shots and narration derive directly from this original master, never from the compressed preview.
+Medium shots retain source resolution. Presenter close-ups crop 3264 x 1836 and enlarge once to 3840 x 2160 with Lanczos (~1.176x); these close-ups do not retain native 4K detail.
+The portraits originate at 4482 x 6720 each and are cropped/downsampled. Article text is captured from the real browser-rendered page at device scale 4 and cropped/resized; it is not a reconstructed publisher layout.
+The user-provided Finance Bureau 1280 x 720 / 25 fps reference is used only for style analysis.
+
+AUDIO AND EDITING
+Original recorded voice only; no TTS, invented speech, pitch change or speed change.
+Added the original recorded lead-in from 327.700000-331.066667 to provide context and replace the former end hold. It appears in the existing script-match report.
+Retained complete narration from the selected take, with a shortened inter-sentence pause and an 8-frame internal pause cut.
+The previous project's omission of 'By lunchtime' remains: that timing is not established by the cited reporting.
+Exact source ranges and picture framing are in Badenoch_final_storyboard.csv. All timeline boundaries are integer frames at 30 fps.
+Processing: 70 Hz high-pass, restrained FFmpeg noise reduction (6 dB), 5 ms cut-edge fades, two-pass loudness normalization; no added music.
+Measured encoded audio: -15.97 LUFS integrated; -1.50 dBTP; 2.00 LU loudness range.
+Previous export's detected ending silence: 2.756063 seconds, including AAC decoder padding.
+Current speech decay reaches the -40 dB silence threshold at 29.770521 seconds. Remaining in-container tail: 0.229479 seconds; decoded AAC tail including padding: 0.245479 seconds. No long closing hold.
+Longest detected interior pause at this threshold: 0.352063 seconds.
+Automated ASR recognizes the retained ending as 'He was on a stage with Nigel Farage' and recognizes 'within 13 percentage points'. ASR is not a substitute for listening review.
+
+VISUAL AND FACTUAL QC
+PASS: Full 900-frame audio/video decode with no decoder error.
+PASS: No black-frame interval at the stated blackdetect thresholds (0.05 pixel threshold, 98% picture threshold, 0.1 s duration).
+PASS: Inspected representative frames immediately before and after all 9 picture cuts, plus detailed chart, portrait and document frames. No spelling error or clipped graphic text observed in inspected frames.
+PASS: No synthetic political imagery, fabricated headline, placeholder asset, or presenter VHS treatment.
+PASS: Authentic Sky headline and statement paragraphs used; exact pixel captures retained locally with full-page context. Highlights follow the associated speech.
+PASS: Commons Library briefing 01366, dated 4 November 2024, p.12 confirms Badenoch 53,801 / 56.5% and Jenrick 41,388 / 43.5%. 13 percentage points is the difference between the rounded published shares.
+PASS: Sky quotes all three dismissal actions. ITV confirms the later appearance with Farage. The 'plotting' allegation remains attributed to Badenoch.
+PASS: Closing portraits are genuine and labelled ILLUSTRATIVE PORTRAITS; they are not presented as a photograph of the press conference. CC BY 3.0 author/license credits are on screen and in the manifest.
+Freeze detector flags: 4.733333-5.500000 (slow document push before highlight) and 18.633333-21.400000 (intentional readable chart hold after animation). These were inspected as designed graphic behavior, not frozen presenter footage. No ending freeze was detected.
+Motion techniques: genuine article push-in with progressive highlights; animated proportional comparison bars and large gap statistic; motivated presenter punch-ins; licensed portrait split-screen with subtle movement.
+Reference comparison: sampled 0-75 seconds and cuts around 15-35 seconds of the uploaded Finance Bureau video. The revision adopts alternating source evidence, presenter framings and large numbers; it does not claim a full real-time review of the 17-minute reference.
+
+OUTSTANDING CONCERNS / HONEST REVIEW LIMITS
+1. Full real-time human auditory review has NOT been performed. ASR and signal analysis were completed. Listen to the opening name, the first 'She', and the edited 'He' boundary before approving client delivery. Both existing and new ASR render the opening name inconsistently (new ASR: 'Carrie Badnock'; low confidence on first name). This is an unresolved recognition/pronunciation concern, not a confirmed factual correction. The recorded words were preserved without synthesis.
+2. The standalone approved script was not separately available; the existing transcript, script_cut_review.csv and production package supplied script alignment. The added lead-in is present in that report, but the editorial change still merits listening review.
+3. Sky News excerpts are short, attributed editorial quotations; express republication permission was not obtained. Copyright remains with the publisher. Review the intended distribution's quotation/fair-dealing basis or secure permission as appropriate. The portrait licenses are documented CC BY 3.0.
+4. The comparison graphic uses a clearly labelled 0%-60% axis, common to both bars. Its final values hold for reading; this is intentional.
+5. Portraits are an explicitly labelled licensed alternative to a press-conference photograph. Their timing is 28.133333-30.000000 to follow the actual Farage reference.
+
+GOOGLE DRIVE DELIVERY
+Requested folder: Badenoch_VHS_Project/Final
+Known folder ID: 1qwIAO8YsK2B65rQM5w1HsyyxUBMZo-UU
+Upload: NOT PERFORMED. DRIVE_UPLOAD_TOKEN is now configured and the official Google Drive API was tested. Google rejected the destination-folder access check with HTTP 401 UNAUTHENTICATED (authError: invalid authentication credentials). No upload was attempted. Refresh or replace the existing secure OAuth credential; no new credential requirement is necessary.
+Final MP4 existence in Drive: NOT VERIFIED. Local render success does not establish remote delivery.
+Repository and original project assets were preserved; no GitHub or Drive writes were performed.

@@ -1,0 +1,67 @@
+{
+  "status": "REVIEW ONLY; source words/cuts need listening verification; evidence composite pending",
+  "source": "/workspace/badenoch-revision-preflight/downloads/original_master.mp4",
+  "fps": 30,
+  "segments": [
+    {
+      "start_frame": 9831,
+      "end_frame": 9932,
+      "framing": "medium",
+      "phrase": "On the same morning ... had published a statement on X.",
+      "output_start_frame": 0,
+      "output_end_frame": 101,
+      "source_start": 327.7,
+      "source_end": 331.06666666666666
+    },
+    {
+      "start_frame": 11634,
+      "end_frame": 11794,
+      "framing": "close",
+      "phrase": "She had been presented, she wrote, with clear and irrefutable evidence ...",
+      "output_start_frame": 101,
+      "output_end_frame": 261,
+      "source_start": 387.8,
+      "source_end": 393.1333333333333
+    },
+    {
+      "start_frame": 11794,
+      "end_frame": 12024,
+      "framing": "medium",
+      "phrase": "... her shadow justice secretary was plotting ... colleagues.",
+      "output_start_frame": 261,
+      "output_end_frame": 491,
+      "source_start": 393.1333333333333,
+      "source_end": 400.8
+    },
+    {
+      "start_frame": 12038,
+      "end_frame": 12261,
+      "framing": "close",
+      "phrase": "Robert Jenrick ... thirteen percentage points ... fourteen months earlier",
+      "output_start_frame": 491,
+      "output_end_frame": 714,
+      "source_start": 401.26666666666665,
+      "source_end": 408.7
+    },
+    {
+      "start_frame": 12269,
+      "end_frame": 12399,
+      "framing": "medium",
+      "phrase": "was sacked, stripped of the whip and suspended with immediate effect.",
+      "output_start_frame": 714,
+      "output_end_frame": 844,
+      "source_start": 408.96666666666664,
+      "source_end": 413.3
+    },
+    {
+      "start_frame": 12436,
+      "end_frame": 12492,
+      "framing": "close",
+      "phrase": "he was on a stage with Nigel Farage.",
+      "output_start_frame": 844,
+      "output_end_frame": 900,
+      "source_start": 414.53333333333336,
+      "source_end": 416.4
+    }
+  ]
+}

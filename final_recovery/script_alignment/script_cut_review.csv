@@ -1,0 +1,196 @@
+index,start,end,duration,spoken,score,status,closest_script
+0,0.0,3.38,3.38,The Conservative Party told the British public it turned a corner.,93.8,MATCH / likely scripted,conservative party told the british public it had turned a corner
+1,3.92,5.94,2.02,"Then on the morning of the 15th of January,",88.0,MATCH / likely scripted,then on the morning of 15 january
+2,6.08,9.18,3.1,"2026, in the middle of a debate about digital ID,",100.0,MATCH / likely scripted,2026 in the middle of a debate about digital id
+3,9.86,11.8,1.94,the corner fell off the building.,100.0,MATCH / likely scripted,the corner fell off the building
+4,12.62,14.56,1.94,What you're about to watch is a Labour minister,98.9,MATCH / likely scripted,what you are about to watch is a labour minister
+5,14.56,17.72,3.16,at the dispatch box on the floor of the House of Commons,100.0,MATCH / likely scripted,at the dispatch box on the floor of the house of commons
+6,17.72,21.58,3.86,pausing mid-debate to mock the Tory benches,100.0,MATCH / likely scripted,pausing mid debate to mock the tory benches
+7,21.58,23.02,1.44,over something that happened.,90.2,MATCH / likely scripted,over something that had
+8,49.24,50.98,1.74,The Conservative Party told the British public,100.0,MATCH / likely scripted,the conservative party told the british public
+9,50.98,52.32,1.34,it turned a corner.,86.5,MATCH / likely scripted,had turned a corner
+10,52.32,55.56,3.24,"Then on the morning of the 15th of January, 2026,",89.4,MATCH / likely scripted,then on the morning of 15 january 2026
+11,55.72,57.84,2.12,"in the middle of a debate about digital ID,",100.0,MATCH / likely scripted,in the middle of a debate about digital id
+12,58.82,61.64,2.82,on the morning of 15...,100.0,MATCH / likely scripted,on the morning of 15
+13,66.57,67.65,1.08,"Yeah, I want to say that.",59.1,UNCERTAIN / listen,had a way out of that
+14,69.65,71.47,1.82,The Conservative Party told the British public,100.0,MATCH / likely scripted,the conservative party told the british public
+15,71.47,72.81,1.34,it had turned a corner.,100.0,MATCH / likely scripted,it had turned a corner
+16,73.27,75.85,2.58,"Then on the morning of the 15th of January, 2026,",89.4,MATCH / likely scripted,then on the morning of 15 january 2026
+17,76.47,78.41,1.94,in the middle of... Why is this not working?,62.0,UNCERTAIN / listen,in the middle of a debate about
+18,78.57,78.97,0.4,"Come on, buddy.",57.1,UNCERTAIN / listen,commons library
+19,84.98,89.22,4.24,The Conservative Party told the British public,100.0,MATCH / likely scripted,the conservative party told the british public
+20,89.22,90.86,1.64,it had turned a corner.,100.0,MATCH / likely scripted,it had turned a corner
+21,91.38,93.78,2.4,"Then on the morning of the 15th of January, 2026,",89.4,MATCH / likely scripted,then on the morning of 15 january 2026
+22,94.24,96.26,2.02,"in the middle of a debate about digital ID,",100.0,MATCH / likely scripted,in the middle of a debate about digital id
+23,96.86,98.42,1.56,the corner fell off the building.,100.0,MATCH / likely scripted,the corner fell off the building
+24,99.1,101.0,1.9,What you're about to watch is a Labour minister,98.9,MATCH / likely scripted,what you are about to watch is a labour minister
+25,101.0,104.14,3.14,at the dispatch box on the floor of the House of Commons,100.0,MATCH / likely scripted,at the dispatch box on the floor of the house of commons
+26,104.14,107.52,3.38,pausing mid-debate to mock the Tory benches,100.0,MATCH / likely scripted,pausing mid debate to mock the tory benches
+27,107.52,109.24,1.72,over something that had just happened.,100.0,MATCH / likely scripted,over something that had just happened
+28,109.64,111.22,1.58,"Not something from the previous month,",100.0,MATCH / likely scripted,not something from the previous month
+29,111.64,115.16,3.52,something that was breaking in real time as the session ran.,100.0,MATCH / likely scripted,something that was breaking in real time as the session ran
+30,116.0,117.02,1.02,"Hold that thought,",100.0,MATCH / likely scripted,hold that thought
+31,117.02,120.3,3.28,because the context makes the clip significantly worse.,100.0,MATCH / likely scripted,because the context makes the clip significantly worse
+32,121.04,122.6,1.56,The debate was on urgent...,95.8,MATCH / likely scripted,the debate was an urgent
+33,128.01,130.73,2.72,The debate was an urgent question on digital ID.,100.0,MATCH / likely scripted,the debate was an urgent question on digital id
+34,131.29,134.23,2.94,A policy Keir Starmer had announced this September 2025,96.3,MATCH / likely scripted,a policy keir starmer had announced in september 2025
+35,134.23,136.17,1.94,"with no manifesto commitment,",100.0,MATCH / likely scripted,with no manifesto commitment
+36,137.03,139.97,2.94,"no cabinet warning, and no clear price.",100.0,MATCH / likely scripted,no cabinet warning and no clear price
+37,154.09,156.43,2.34,The debate was an urgent question on digital ID.,100.0,MATCH / likely scripted,the debate was an urgent question on digital id
+38,156.81,159.73,2.92,A policy Keir Starmer had announced this September 2025,96.3,MATCH / likely scripted,a policy keir starmer had announced in september 2025
+39,159.73,161.39,1.66,"with no manifesto commitment,",100.0,MATCH / likely scripted,with no manifesto commitment
+40,161.39,164.41,3.02,"no cabinet warning, and no clear price tag.",100.0,MATCH / likely scripted,no cabinet warning and no clear price tag
+41,164.99,167.27,2.28,The Commons Library later pulled...,91.8,MATCH / likely scripted,the commons library later put
+42,169.83,173.29,3.46,The Commons Library later put the cost at £1.8 billion.,100.0,MATCH / likely scripted,the commons library later put the cost at 1 8 billion
+43,174.49,177.51,3.02,A parliamentary petition against mandatory digital ID,100.0,MATCH / likely scripted,a parliamentary petition against mandatory digital id
+44,177.51,180.11,2.6,gathered just under three million signatures.,100.0,MATCH / likely scripted,gathered just under three million signatures
+45,183.9,186.56,2.66,"But by the 15th of January, the government had retreated.",91.1,MATCH / likely scripted,but by 15 january the government had retreated
+46,186.92,188.52,1.6,Manitory was...,62.1,UNCERTAIN / listen,mandatory digital
+47,190.09,190.47,0.38,OK.,50.0,UNCERTAIN / listen,of
+48,192.53,195.37,2.84,"But by the 15th of January, the government had retreated.",91.1,MATCH / likely scripted,but by 15 january the government had retreated
+49,195.79,197.09,1.3,Manitory was now voluntary.,94.3,MATCH / likely scripted,mandatory was now voluntary
+50,197.09,201.33,4.24,The opposition called it an expensive chaotic shambles.,100.0,MATCH / likely scripted,the opposition called it an expensive chaotic shambles
+51,201.71,203.75,2.04,"Per the answered record from that morning,",93.8,MATCH / likely scripted,per the hansard record from that morning
+52,204.53,206.01,1.48,that is close to verbatism.,98.0,MATCH / likely scripted,that is close to verbatim
+53,206.53,207.83,1.3,What the fuck?,58.3,UNCERTAIN / listen,that is the
+54,213.54,215.44,1.9,An expensive chaotic shambles,100.0,MATCH / likely scripted,an expensive chaotic shambles
+55,221.61,224.16,2.55,"that is close to verbatim, what they said.",100.0,MATCH / likely scripted,that is close to verbatim what they said
+56,238.36,238.94,0.58,Verbatim.,100.0,MATCH / likely scripted,verbatim
+57,240.02,240.68,0.66,Verbatim.,100.0,MATCH / likely scripted,verbatim
+58,252.68,253.34,0.66,Verbatim.,100.0,MATCH / likely scripted,verbatim
+59,259.86,260.44,0.58,Verbatim.,100.0,MATCH / likely scripted,verbatim
+60,268.0,269.96,1.96,"Per the answered record from that morning,",93.8,MATCH / likely scripted,per the hansard record from that morning
+61,270.3,272.38,2.08,"that is close to verbatim, what they said.",100.0,MATCH / likely scripted,that is close to verbatim what they said
+62,273.5,274.14,0.64,They were right.,100.0,MATCH / likely scripted,they were right
+63,274.14,276.74,2.6,"But the minister, depending...",96.2,MATCH / likely scripted,but the minister defending
+64,276.74,278.14,1.4,"But the minister defending the scheme,",100.0,MATCH / likely scripted,but the minister defending the scheme
+65,278.22,281.04,2.82,"a cabinet office minister, named Josh Simmons,",98.9,MATCH / likely scripted,a cabinet office minister named josh simons
+66,281.5,283.02,1.52,had a way out of that argument.,100.0,MATCH / likely scripted,had a way out of that argument
+67,283.58,287.02,3.44,"Not factual rebuttal, something considerably more useful.",96.3,MATCH / likely scripted,a factual rebuttal something considerably more useful
+68,287.78,291.72,3.94,News arriving from the street outside in real time.,100.0,MATCH / likely scripted,news arriving from the street outside in real time
+69,292.8,294.6,1.8,"I need to... OK, he's a good guy.",53.3,UNCERTAIN / listen,in real time on the same morning
+70,302.28,302.72,0.44,They were right.,100.0,MATCH / likely scripted,they were right
+71,303.08,306.0,2.92,"But the minister defending the scheme, a cabinet office...",100.0,MATCH / likely scripted,but the minister defending the scheme a cabinet office
+72,307.0,307.48,0.48,Uggghhh.,42.9,REVIEW / likely off-script,thought
+73,307.56,308.34,0.78,This is a bad day.,57.9,UNCERTAIN / listen,josh simons had a way
+74,310.87,311.45,0.58,They were right.,100.0,MATCH / likely scripted,they were right
+75,311.45,313.03,1.58,"But the minister defending the scheme,",100.0,MATCH / likely scripted,but the minister defending the scheme
+76,313.13,315.85,2.72,"a cabinet office minister named Josh Simmons,",98.9,MATCH / likely scripted,a cabinet office minister named josh simons
+77,316.37,317.61,1.24,had a way out of that argument.,100.0,MATCH / likely scripted,had a way out of that argument
+78,318.11,321.35,3.24,"Not factual rebuttal, something considerably more useful.",96.3,MATCH / likely scripted,a factual rebuttal something considerably more useful
+79,322.79,327.01,4.22,News arriving from the street outside in real time.,100.0,MATCH / likely scripted,news arriving from the street outside in real time
+80,327.69,328.35,0.66,"On the same morning,",100.0,MATCH / likely scripted,on the same morning
+81,328.55,330.85,2.3,Carrie Badenock had published a statement on X.,88.9,MATCH / likely scripted,kemi badenoch had published a statement on x
+82,331.73,333.21,1.48,She had been presented...,100.0,MATCH / likely scripted,she had been presented
+83,337.59,339.49,1.9,"She had been presented, she wrote,",100.0,MATCH / likely scripted,she had been presented she wrote
+84,339.87,342.21,2.34,with clear and irrefutable evidence,100.0,MATCH / likely scripted,with clear and irrefutable evidence
+85,342.21,344.59,2.38,that her shadow justice secretary,100.0,MATCH / likely scripted,that her shadow justice secretary
+86,344.59,347.67,3.08,was plotting in secret to defect,100.0,MATCH / likely scripted,was plotting in secret to defect
+87,348.07,350.75,2.68,in a way designed to be as damaging as possible,100.0,MATCH / likely scripted,in a way designed to be as damaging as possible
+88,350.75,351.83,1.08,to his shadow...,100.0,MATCH / likely scripted,to his shadow
+89,351.83,355.27,3.44,"I can't... What is this script, man?",57.6,UNCERTAIN / listen,media that is the party josh
+90,360.92,363.0,2.08,Is there not a simpler way of saying this sentence?,54.0,UNCERTAIN / listen,is the party josh simons was looking at across the
+91,366.38,368.04,1.66,"She had been presented, she wrote,",100.0,MATCH / likely scripted,she had been presented she wrote
+92,368.38,369.64,1.26,with clear and irrefutable evidence,100.0,MATCH / likely scripted,with clear and irrefutable evidence
+93,369.64,371.04,1.4,that her shadow justice secretary,100.0,MATCH / likely scripted,that her shadow justice secretary
+94,371.04,372.88,1.84,was plotting in secret to defect,100.0,MATCH / likely scripted,was plotting in secret to defect
+95,373.44,375.68,2.24,in a way designed to be as damaging as possible,100.0,MATCH / likely scripted,in a way designed to be as damaging as possible
+96,375.68,377.44,1.76,to his shadow cabinet colleagues.,100.0,MATCH / likely scripted,to his shadow cabinet colleagues
+97,387.96,389.42,1.46,"She had been presented, she wrote,",100.0,MATCH / likely scripted,she had been presented she wrote
+98,389.42,391.3,1.88,with clear and irrefutable evidence,100.0,MATCH / likely scripted,with clear and irrefutable evidence
+99,391.3,393.26,1.96,that her shadow justice secretary,100.0,MATCH / likely scripted,that her shadow justice secretary
+100,393.26,396.16,2.9,was plotting in secret to defect in a way,100.0,MATCH / likely scripted,was plotting in secret to defect in a way
+101,396.16,398.48,2.32,designed to be as damaging as possible,100.0,MATCH / likely scripted,designed to be as damaging as possible
+102,398.48,400.54,2.06,to his shadow cabinet colleagues.,100.0,MATCH / likely scripted,to his shadow cabinet colleagues
+103,401.32,404.96,3.64,"Robert Jenrick, who had come with 13 percentage points",98.1,MATCH / likely scripted,robert jenrick who had come within 13 percentage points
+104,404.96,408.5,3.54,"of leading the conservative party just 14 months earlier,",91.5,MATCH / likely scripted,of leading the conservative party just fourteen months earlier
+105,408.96,410.7,1.74,"was sacked, stripped of the whip",100.0,MATCH / likely scripted,was sacked stripped of the whip
+106,410.7,413.1,2.4,and suspended with immediate effect.,100.0,MATCH / likely scripted,and suspended with immediate effect
+107,413.56,416.06,2.5,"By lunchtime, he was on a stage with Nigel Farage.",100.0,MATCH / likely scripted,by lunchtime he was on a stage with nigel farage
+108,416.78,420.44,3.66,"But first, he was the subject of a line...",100.0,MATCH / likely scripted,but first he was the subject of a line
+109,423.96,427.88,3.92,"But first, he was the subject of a line from the dispatch box.",100.0,MATCH / likely scripted,but first he was the subject of a line from the dispatch box
+110,428.62,430.16,1.54,This is what you have not heard yet.,94.3,MATCH / likely scripted,that is what you have not heard yet
+111,430.64,431.42,0.78,Not the def...,77.8,MATCH / likely scripted,not the
+112,432.92,434.4,1.48,"Fuck you, you've been talking about.",50.0,UNCERTAIN / listen,not about digital id about
+113,434.48,435.5,1.02,I don't even know what this script is about.,53.2,UNCERTAIN / listen,his own team s notes described it as
+114,440.21,441.83,1.62,This is what you have not heard yet.,94.3,MATCH / likely scripted,that is what you have not heard yet
+115,442.13,443.57,1.44,"Not the defection itself,",100.0,MATCH / likely scripted,not the defection itself
+116,444.07,447.41,3.34,what was actually said in front of Jenrick's own former colleagues,100.0,MATCH / likely scripted,what was actually said in front of jenrick s own former colleagues
+117,447.41,450.07,2.66,in the moment the news arrived in the chamber.,100.0,MATCH / likely scripted,in the moment the news arrived in the chamber
+118,450.57,452.01,1.44,That line is in the clip.,100.0,MATCH / likely scripted,that line is in the clip
+119,452.31,455.03,2.72,The UGA poll published that same month,93.7,MATCH / likely scripted,the yougov poll published that same month
+120,455.03,457.41,2.38,found 75% of the British public,80.8,MATCH / likely scripted,of the british public
+121,457.41,459.77,2.36,viewed Kirstammer unfavorably.,86.2,MATCH / likely scripted,viewed keir starmer unfavourably the
+122,460.33,462.51,2.18,The highest figure ever recorded for him.,100.0,MATCH / likely scripted,the highest figure ever recorded for him
+123,463.33,466.69,3.36,Badenock's net favorability set a minus 26%.,92.0,MATCH / likely scripted,badenoch s net favourability sat at minus 26
+124,466.69,468.65,1.96,The conservatives were trailing Reform UK,100.0,MATCH / likely scripted,the conservatives were trailing reform uk
+125,468.65,471.81,3.16,among homeowners who own that...,91.5,MATCH / likely scripted,among homeowners who own their
+126,473.22,476.14,2.92,Who the fuck needs to know what a homeowner is?,51.9,UNCERTAIN / listen,the conservatives were trailing reform uk among homeowners
+127,476.36,477.32,0.96,We know what that is.,60.6,UNCERTAIN / listen,media that is
+128,478.0,479.96,1.96,The conservatives were trailing Reform UK,100.0,MATCH / likely scripted,the conservatives were trailing reform uk
+129,479.96,483.14,3.18,among homeowners who own their property outright.,100.0,MATCH / likely scripted,among homeowners who own their property outright
+130,485.19,489.62,4.43,"Okay, fairs.",52.6,UNCERTAIN / listen,but first
+131,491.92,493.42,1.5,The conservatives were trailing Reform UK,100.0,MATCH / likely scripted,the conservatives were trailing reform uk
+132,493.42,496.1,2.68,among homeowners who own their property outright.,100.0,MATCH / likely scripted,among homeowners who own their property outright
+133,496.46,498.06,1.6,A demographic the pub...,86.4,MATCH / likely scripted,a demographic the party
+134,499.86,505.38,5.52,The conservatives were trailing Reform UK,100.0,MATCH / likely scripted,the conservatives were trailing reform uk
+135,505.38,508.22,2.84,among homeowners who own their property outright.,100.0,MATCH / likely scripted,among homeowners who own their property outright
+136,508.66,511.62,2.96,A demographic the party has held since Thatcher.,97.9,MATCH / likely scripted,a demographic the party had held since thatcher
+137,512.32,515.96,3.64,"By every conventional measure, both...",100.0,MATCH / likely scripted,by every conventional measure both
+138,515.96,517.18,1.22,"By every conventional measure,",100.0,MATCH / likely scripted,by every conventional measure
+139,517.44,520.12,2.68,both main opposition parties were in a race,100.0,MATCH / likely scripted,both main opposition parties were in a race
+140,520.12,522.2,2.08,to see which one could collapse.,100.0,MATCH / likely scripted,to see which one could collapse
+141,523.7,525.78,2.08,"Oh, where's the fucking air con?",56.2,UNCERTAIN / listen,they were losing them in waves per
+142,529.52,530.32,0.8,"Oh, it's already on.",57.1,UNCERTAIN / listen,points of leading
+143,554.2,556.52,2.32,"By every conventional measure, both parties...",91.4,MATCH / likely scripted,by every conventional measure both main
+144,556.52,557.94,1.42,"By every conventional measure,",100.0,MATCH / likely scripted,by every conventional measure
+145,558.28,560.42,2.14,both opposition parties were in a race,90.5,MATCH / likely scripted,both main opposition parties were in a race to
+146,560.42,562.94,2.52,to see which one could collapse the fastest.,91.8,MATCH / likely scripted,to see which one could collapse fastest on
+147,563.6,565.28,1.68,"On the 15th of January, the conservatives,",87.3,MATCH / likely scripted,on 15 january the conservatives
+148,565.64,566.5,0.86,they blinked first.,83.9,MATCH / likely scripted,blinked first
+149,567.06,568.38,1.32,Generic had been in a dialogue,82.5,MATCH / likely scripted,jenrick had been in dialogue with
+150,568.38,571.9,3.52,with senior reform figures since September 2025.,100.0,MATCH / likely scripted,with senior reform figures since september 2025
+151,572.66,573.92,1.26,He let it confirm to journalists.,80.6,MATCH / likely scripted,later confirmed to journalists
+152,576.0,578.5,2.5,It's hard when I don't even know what the script is about.,53.4,UNCERTAIN / listen,in his own handwriting his own team s notes described it as
+153,585.78,588.14,2.36,Generic had been in dialogue with senior reform figures,96.4,MATCH / likely scripted,jenrick had been in dialogue with senior reform figures
+154,588.14,589.68,1.54,since September 2025.,91.9,MATCH / likely scripted,in september 2025
+155,590.22,591.88,1.66,He let it confirmed to journalists.,84.4,MATCH / likely scripted,later confirmed to journalists
+156,592.62,595.38,2.76,"Badnock discovered the plot, not through intelligence,",97.1,MATCH / likely scripted,badenoch discovered the plot not through intelligence
+157,595.72,598.74,3.02,but through copies of his defection speech,100.0,MATCH / likely scripted,but through copies of his defection speech
+158,599.16,602.1,2.94,and a media plan annotated in his own handwriting.,100.0,MATCH / likely scripted,and a media plan annotated in his own handwriting
+159,603.46,605.78,2.32,His own team's notes described it,100.0,MATCH / likely scripted,his own team s notes described it
+160,605.78,609.5,3.72,as the biggest defection story reform has ever had.,100.0,MATCH / likely scripted,as the biggest defection story reform has ever had
+161,610.92,612.4,1.48,He was not the first.,100.0,MATCH / likely scripted,he was not the first
+162,614.84,616.28,1.44,He was not the first.,100.0,MATCH / likely scripted,he was not the first
+163,616.56,619.4,2.84,Per the Wikipedia list of conservative defections,100.0,MATCH / likely scripted,per the wikipedia list of conservative defections
+164,619.4,622.66,3.26,"to reform UK, Danny Kruger had...",100.0,MATCH / likely scripted,to reform uk danny kruger had
+165,631.67,632.91,1.24,He was not the first.,100.0,MATCH / likely scripted,he was not the first
+166,633.15,635.77,2.62,Per the Wikipedia list of conservative defections,100.0,MATCH / likely scripted,per the wikipedia list of conservative defections
+167,635.77,637.15,1.38,"to reform UK,",100.0,MATCH / likely scripted,to reform uk
+168,637.57,640.31,2.74,Danny Kruger had gone the previous September.,100.0,MATCH / likely scripted,danny kruger had gone the previous september
+169,641.49,644.05,2.56,"Nadim Zawi, the former chancellor,",95.5,MATCH / likely scripted,nadhim zahawi the former chancellor
+170,644.05,646.87,2.82,had followed three days before Generic.,94.7,MATCH / likely scripted,had followed three days before jenrick
+171,648.65,649.69,1.04,"Andrew Rosendell,",61.2,UNCERTAIN / listen,jenrick andrew rosindell followed
+172,650.71,653.01,2.3,Andrew Rosendell followed three days after.,97.6,MATCH / likely scripted,andrew rosindell followed three days after
+173,653.63,655.85,2.22,The conservatives were not losing one MP,100.0,MATCH / likely scripted,the conservatives were not losing one mp
+174,655.85,657.61,1.76,to their principal rival.,100.0,MATCH / likely scripted,to their principal rival
+175,658.07,659.97,1.9,They were losing them in waves.,100.0,MATCH / likely scripted,they were losing them in waves
+176,660.87,664.61,3.74,"Per ITV News reporting that afternoon,",100.0,MATCH / likely scripted,per itv news reporting that afternoon
+177,665.17,667.21,2.04,when Farage called Generic to the stage,94.9,MATCH / likely scripted,when farage called jenrick to the stage
+178,667.21,668.49,1.28,"at the press conference,",100.0,MATCH / likely scripted,at the press conference
+179,669.01,670.91,1.9,"he was absent for several minutes,",100.0,MATCH / likely scripted,he was absent for several minutes
+180,670.91,673.95,3.04,rewriting his speech to remove sections,100.0,MATCH / likely scripted,rewriting his speech to remove sections
+181,673.95,677.39,3.44,his former leader had already leaked to the media.,100.0,MATCH / likely scripted,his former leader had already leaked to the media
+182,678.13,681.33,3.2,That is the party Josh Simmons was looking at,98.9,MATCH / likely scripted,that is the party josh simons was looking at
+183,681.33,682.31,0.98,across the dispatch box.,100.0,MATCH / likely scripted,across the dispatch box
+184,682.79,685.03,2.24,"A shadow cabinet in freefall,",94.9,MATCH / likely scripted,a shadow cabinet in free fall a
+185,685.47,687.53,2.06,a leader who just publicly fired,90.9,MATCH / likely scripted,leader who had just publicly fired
+186,687.53,689.11,1.58,her most prominent rival,100.0,MATCH / likely scripted,her most prominent rival
+187,689.11,691.51,2.4,and benches full of MPs,100.0,MATCH / likely scripted,and benches full of mps
+188,691.51,694.55,3.04,processing the implosion of their own front bench,96.0,MATCH / likely scripted,processing the implosion of their own frontbench in
+189,694.55,695.83,1.28,in real time.,100.0,MATCH / likely scripted,in real time
+190,696.95,699.81,2.86,There is a very specific thing Simmons says.,98.8,MATCH / likely scripted,there is a very specific thing simons says
+191,699.81,701.43,1.62,"Not about digital ID,",100.0,MATCH / likely scripted,not about digital id
+192,701.83,703.89,2.06,about flapping in the wind.,100.0,MATCH / likely scripted,about flapping in the wind
+193,704.47,706.77,2.3,About who precisely is doing the flapping.,100.0,MATCH / likely scripted,about who precisely is doing the flapping
+194,707.25,707.87,0.62,"Well, watch.",58.3,UNCERTAIN / listen,flapping watch

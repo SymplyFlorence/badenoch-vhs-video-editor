@@ -1,0 +1,11 @@
+shot,output_start_seconds,output_end_seconds,start_frame,end_frame_exclusive,visual,framing,asset,narration_source_ranges,editorial_direction
+1,0.000000,2.000000,0,60,presenter,medium,original_master.mp4,327.700000-329.700000,Clean original presenter; recorded lead-in restores context.
+2,2.000000,4.733333,60,142,headline,,sky-article-header.png (original-pixel crop),329.700000-331.066667; 387.800000-389.166667,Genuine Sky News headline crop; controlled push-in.
+3,4.733333,11.333333,142,340,statement,,sky-statement-paragraph.png,389.166667-393.133333; 393.133333-395.766667,Genuine quoted statement; speech-timed highlight and restrained push-in.
+4,11.333333,13.733333,340,412,presenter,close,original_master.mp4,395.766667-398.166667,Punch-in on damaging-as-possible statement.
+5,13.733333,16.366667,412,491,presenter,medium,original_master.mp4,398.166667-400.800000,Return to medium as sentence completes.
+6,16.366667,17.400000,491,522,presenter,close,original_master.mp4,401.266667-402.300000,Robert Jenrick introduction before result graphic.
+7,17.400000,21.400000,522,642,chart,,"Original bar animation based on official_results.pdf, p.12",402.300000-406.300000,Verified 56.5% versus 43.5%; animated bars and 13-point reveal.
+8,21.400000,23.800000,642,714,presenter,medium,original_master.mp4,406.300000-408.700000,Presenter returns for fourteen months earlier.
+9,23.800000,28.133333,714,844,dismissal,,sky-dismissal-paragraph.png,408.966667-413.300000,Genuine Sky statement excerpt; successive highlights match dismissal/whip/suspension.
+10,28.133333,30.000000,844,900,portraits,,jenrick_portrait.jpg; farage_portrait.jpg,414.533333-416.400000,Licensed official portraits; split-screen and subtle push; complete Farage sentence and short decay.

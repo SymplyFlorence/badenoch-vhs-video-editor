@@ -1,0 +1,178 @@
+{
+  "completed/Badenoch_documentary_FINAL_4K.mp4": {
+    "bytes": 40283921,
+    "sha256": "faed72ed5740d78ff4568581ef035600e0bcc0bf0668898163173b9766341392"
+  },
+  "config.json": {
+    "bytes": 2456,
+    "sha256": "0b0e975eb8b6b4001d9b4da89da9dee15186b908d73d315021fcb3fc462c6254"
+  },
+  "evidence/Nigel_Farage_commons.json": {
+    "bytes": 31142,
+    "sha256": "c4558e372c5e4bef5afbe04a96e3e01d976604d220ddbeccfda51d9c7d7b4d2c"
+  },
+  "evidence/Robert_Jenrick_commons.json": {
+    "bytes": 36256,
+    "sha256": "8968259690f5c29b844e7bcacf3323d076db5c311e8ba90e768a88bcf6c4b6ea"
+  },
+  "evidence/article_geometry.json": {
+    "bytes": 1779,
+    "sha256": "5f48bac366960a1c225c92cf84efd3ab17709b430a8e103923b1897cd709a5d2"
+  },
+  "evidence/commons_search.json": {
+    "bytes": 20,
+    "sha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d"
+  },
+  "evidence/farage_portrait.jpg": {
+    "bytes": 21005339,
+    "sha256": "6895d5b6a71a64815e58661ab1c170f9d9a8953043bfc25df2e12fe30d583176"
+  },
+  "evidence/farage_portrait.jpg.preview.jpg": {
+    "bytes": 15775,
+    "sha256": "a2da92d503dd4ff160701cd6657e0c4edfa9ff9b8eb1d1779f15af8ea154dea1"
+  },
+  "evidence/itv-schema.json": {
+    "bytes": 253,
+    "sha256": "f8aa5a1fea22478ed6f98deab479ca9fb5abdde20ddb62f3f7496b3e92ca7214"
+  },
+  "evidence/itv.html": {
+    "bytes": 97876,
+    "sha256": "76fdd004890521482a2ca25c2bfc40da8d6df4d46c77614f7b5f55007a960476"
+  },
+  "evidence/jenrick_portrait.jpg": {
+    "bytes": 18055071,
+    "sha256": "1d412a9d810f1fbcc6413145f0253b6ffae2f862dcf02863ef8595a2efeb213c"
+  },
+  "evidence/jenrick_portrait.jpg.preview.jpg": {
+    "bytes": 15575,
+    "sha256": "e97c25812e1c9287eced69b4c6c9ecf323febc4c60075bebb5606518f34fc256"
+  },
+  "evidence/official_results.pdf": {
+    "bytes": 1072690,
+    "sha256": "81863541f0bf3be9dfe7e2a6dff2f56ddd01cf14f57b6212f418307cd7f24ce7"
+  },
+  "evidence/official_results.txt": {
+    "bytes": 92461,
+    "sha256": "a99e74bcd7a754972b6f4e5bf5117be4eb2ce9fe88c9f0187b285f761a129c77"
+  },
+  "evidence/portrait_rights.json": {
+    "bytes": 5654,
+    "sha256": "8ce32baab5aa30b6adb8ec403a2664c7b33e2b37dd5dbc2b9461fab95a470b62"
+  },
+  "evidence/sky-article-header.png": {
+    "bytes": 323763,
+    "sha256": "a96b208caea261c86b94e6b9b9f6d061e83f6b5e0516724e627810139e2da58f"
+  },
+  "evidence/sky-article-schema.json": {
+    "bytes": 8428,
+    "sha256": "bfed829646fe6f6c97eafeac32b9f090716df8894cbbcc40efae7aabc0198c04"
+  },
+  "evidence/sky-dismissal-paragraph.png": {
+    "bytes": 91726,
+    "sha256": "dfbf29600de4b54408d622d6fee909884c867926147d048abc1b156b200ad0c0"
+  },
+  "evidence/sky-headline.png": {
+    "bytes": 2094730,
+    "sha256": "16753100944b2486a00cd70f99afbcb3ffd57cf3e2a6d7a9294cad8c50b4b79d"
+  },
+  "evidence/sky-initial.png": {
+    "bytes": 518404,
+    "sha256": "a70b08ea09cef7df3d665b50e25d052fea589c04777c436f5435584af9c8b4c8"
+  },
+  "evidence/sky-logo.png": {
+    "bytes": 29351,
+    "sha256": "04b651cf64a462ed3975f302b0a2c3ae71eed9ddf5978565f44a295fb93eaea4"
+  },
+  "evidence/sky-schema.json": {
+    "bytes": 9958,
+    "sha256": "9ec3381fd8d805ed1d353a16f4ddf0f956a90ec85523361f8cc74fede611d169"
+  },
+  "evidence/sky-statement-context.png": {
+    "bytes": 1137485,
+    "sha256": "37df401555825cb3e614b6941156bfe1659a0795a0ed19e0f00511c5d5dc5da3"
+  },
+  "evidence/sky-statement-paragraph.png": {
+    "bytes": 101803,
+    "sha256": "2942a4a57fe55cfc09ec6442cb83724a344faf9823c59c44b98c129b860fae68"
+  },
+  "evidence/sky.html": {
+    "bytes": 142757,
+    "sha256": "3f07b101056f25887b090e58574436da28d0170d9948ce5f480c1d7f245aa75f"
+  },
+  "fonts/DejaVuSans-Bold.ttf": {
+    "bytes": 708920,
+    "sha256": "a4c5bc453ca281d90ea079e596da7ae0dfeb5777497c29ec254e76d97ff6f890"
+  },
+  "fonts/DejaVuSans.ttf": {
+    "bytes": 759720,
+    "sha256": "57f73e11f51999432bf7ab22ce55b6f945d5eca1bf824404cfa9ec2e3718c84e"
+  },
+  "fonts/LICENSE.txt": {
+    "bytes": 3859,
+    "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+  },
+  "historical_qc/Badenoch_4K_quality_report.txt": {
+    "bytes": 7025,
+    "sha256": "60e745985de802ab6415efca3e2ecb979d4aa9cd94d6371e06e8e384fb54cf7b"
+  },
+  "historical_qc/Badenoch_evidence_manifest.csv": {
+    "bytes": 3764,
+    "sha256": "7f83977a708a6b7c565a57e109723ea2d1442366abd10715f8e13c2cd15c88c7"
+  },
+  "historical_qc/Badenoch_final_storyboard.csv": {
+    "bytes": 1767,
+    "sha256": "09b62de9134d9e7e6a7fc002a783ef6d8fc8cc525f783b3ad9ba540f88f9e6a4"
+  },
+  "historical_qc/ffprobe_measured.json": {
+    "bytes": 3755,
+    "sha256": "294609261a88a6c64b6b603a2746dd342977cbce327c6cbc3892027fe035409c"
+  },
+  "historical_qc/qc_summary.json": {
+    "bytes": 645,
+    "sha256": "c75401356456a969ac4bade01fdda619807ec5c352c6d279293b77649a5ae885"
+  },
+  "historical_qc/shot_boundary_contact_sheet.jpg": {
+    "bytes": 251266,
+    "sha256": "a873788fd904219eb1cf94eaf94b6ee634f01244d4d056996114acbf3068eb9a"
+  },
+  "original_scripts/capture_sky.py": {
+    "bytes": 3436,
+    "sha256": "e0ebdbb9fa5383d486474c810187349e7788a920ac62db2c6ead915f81b9dc31"
+  },
+  "original_scripts/fetch_evidence.py": {
+    "bytes": 1234,
+    "sha256": "12dc71ffa784328cf6e760138ca4a8729bf50c2d60d947894d3816ac603b3c2c"
+  },
+  "original_scripts/render_documentary.py": {
+    "bytes": 9859,
+    "sha256": "d28b31a28cdc241fb36a329724535fb0b88644db1604d008fa80b5fc7c868c8e"
+  },
+  "original_scripts/render_narration_review.py": {
+    "bytes": 4408,
+    "sha256": "8ee819d388a5ebdddced101ab5ab271b599765b80e72b354e1743736ccef9b10"
+  },
+  "original_scripts/validate_documentary.py": {
+    "bytes": 3100,
+    "sha256": "8a4ca2f071b26f48b84506e88b4e28af16c78f15029c1d65358600bac340de3c"
+  },
+  "script_alignment/script_cut_review.csv": {
+    "bytes": 24507,
+    "sha256": "23b207d16c2b8098a848ef6979116c33f6ebe7b78269e600f4867171a48ecce8"
+  },
+  "script_alignment/timestamped_transcript.json": {
+    "bytes": 134993,
+    "sha256": "0e1124bb57bf8fb2bca7fcc125facd6b00e28d471d09bf4fcac054272b9783b5"
+  },
+  "timeline/shots.json": {
+    "bytes": 1545,
+    "sha256": "766547858561e63d24b629217d5e0d0b874361a05a3eabf53cb77dcbc73c56cd"
+  },
+  "work/narration_edl.json": {
+    "bytes": 2056,
+    "sha256": "b498ea4e4dd94191c6f0f448068dd0bdc8a07d0fa8ba8174931e61e85df8d4f1"
+  },
+  "work/normalized_audio.wav": {
+    "bytes": 8640078,
+    "sha256": "03e0d8f401f043eeaa228a3a760ae20a4409c0ea11351c530c17f9422f8c748f"
+  }
+}

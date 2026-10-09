@@ -1,0 +1,317 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Home",
+      "url": "https://news.sky.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "UK",
+      "url": "https://news.sky.com/uk"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Politics",
+      "url": "https://news.sky.com/politics"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "World",
+      "url": "https://news.sky.com/world"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "US",
+      "url": "https://news.sky.com/us"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Money",
+      "url": "https://news.sky.com/money"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Science, Climate & Tech",
+      "url": "https://news.sky.com/science-climate-tech"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Ents & Arts",
+      "url": "https://news.sky.com/entertainment"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Programmes",
+      "url": "https://news.sky.com/programmes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Puzzles",
+      "url": "https://news.sky.com/puzzles"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Videos",
+      "url": "https://news.sky.com/videos"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Analysis",
+      "url": "https://news.sky.com/analysis"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Data x Forensics",
+      "url": "https://news.sky.com/data-and-forensics"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Offbeat",
+      "url": "https://news.sky.com/offbeat"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Weather",
+      "url": "https://news.sky.com/weather"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#header",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Watch Live",
+      "url": "https://news.sky.com/watch-live"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "About Us",
+      "url": "https://news.sky.com/info/policies-and-standards"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News 2030",
+      "url": "https://news.sky.com/info/sky-news-2030"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News Profiles",
+      "url": "https://news.sky.com/sky-news-profiles"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News Distribution",
+      "url": "https://skynewsdistribution.sky"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News Clip Sales",
+      "url": "https://news.sky.com/info/clip-sales"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Site Map",
+      "url": "https://news.sky.com/info/sitemap"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Editorial Guidelines",
+      "url": "https://components.news.sky.com/files/editorial_guidelines.pdf"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News Board",
+      "url": "https://components.news.sky.com/files/terms_of_reference_of_the_sky_news_board.pdf"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News RSS",
+      "url": "https://news.sky.com/info/rss"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News For Your Phone",
+      "url": "https://news.sky.com/info/smartphones"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News Radio",
+      "url": "https://news.sky.com/info/radio"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Witness",
+      "url": "https://www.sky.com/watch/channel/sky-witness"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Atlantic",
+      "url": "https://www.sky.com/watch/channel/sky-atlantic"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Arts",
+      "url": "https://www.sky.com/watch/channel/sky-arts"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Cinema",
+      "url": "https://www.sky.com/watch/channel/sky-cinema"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "NOW",
+      "url": "https://www.nowtv.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Up Academy Studios",
+      "url": "https://www.skyup.sky/academy-studios"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Group",
+      "url": "https://www.skygroup.sky"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky Bet",
+      "url": "https://m.skybet.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky.com",
+      "url": "https://www.sky.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Sky News Arabia",
+      "url": "https://www.skynewsarabia.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "SiteNavigationElement",
+      "@id": "#footer",
+      "isPartOf": "https://schema.org/WebPageElement",
+      "name": "Advertise With Us",
+      "url": "https://www.skymedia.co.uk/?utm_source=Sky%20News&amp;utm_medium=Web%20page&amp;utm_content=Sky%20News%20web%20page&amp;utm_campaign=Sky%20News%20web%20page"
+    }
+  ]
+}

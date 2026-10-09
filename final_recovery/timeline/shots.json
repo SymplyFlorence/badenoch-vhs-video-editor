@@ -1,0 +1,67 @@
+[
+  {
+    "start": 0,
+    "end": 60,
+    "kind": "presenter",
+    "frame": "medium",
+    "note": "Clean original presenter; recorded lead-in restores context."
+  },
+  {
+    "start": 60,
+    "end": 142,
+    "kind": "headline",
+    "note": "Genuine Sky News headline crop; controlled push-in."
+  },
+  {
+    "start": 142,
+    "end": 340,
+    "kind": "statement",
+    "note": "Genuine quoted statement; speech-timed highlight and restrained push-in."
+  },
+  {
+    "start": 340,
+    "end": 412,
+    "kind": "presenter",
+    "frame": "close",
+    "note": "Punch-in on damaging-as-possible statement."
+  },
+  {
+    "start": 412,
+    "end": 491,
+    "kind": "presenter",
+    "frame": "medium",
+    "note": "Return to medium as sentence completes."
+  },
+  {
+    "start": 491,
+    "end": 522,
+    "kind": "presenter",
+    "frame": "close",
+    "note": "Robert Jenrick introduction before result graphic."
+  },
+  {
+    "start": 522,
+    "end": 642,
+    "kind": "chart",
+    "note": "Verified 56.5% versus 43.5%; animated bars and 13-point reveal."
+  },
+  {
+    "start": 642,
+    "end": 714,
+    "kind": "presenter",
+    "frame": "medium",
+    "note": "Presenter returns for fourteen months earlier."
+  },
+  {
+    "start": 714,
+    "end": 844,
+    "kind": "dismissal",
+    "note": "Genuine Sky statement excerpt; successive highlights match dismissal/whip/suspension."
+  },
+  {
+    "start": 844,
+    "end": 900,
+    "kind": "portraits",
+    "note": "Licensed official portraits; split-screen and subtle push; complete Farage sentence and short decay."
+  }
+]

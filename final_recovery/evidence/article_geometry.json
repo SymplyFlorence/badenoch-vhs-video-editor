@@ -1,0 +1,74 @@
+{
+  "statement": {
+    "text": "\"I was presented with clear, irrefutable evidence that he was plotting in secret to defect in a way designed to be as damaging as possible to his shadow cabinet colleagues and the wider Conservative Party.\"",
+    "width": 2704,
+    "height": 409.125,
+    "spans": {
+      "clear, irrefutable evidence": [
+        {
+          "x": 901.3125,
+          "y": 20,
+          "width": 940.875,
+          "height": 96
+        }
+      ],
+      "plotting in secret to defect": [
+        {
+          "x": 2308.375,
+          "y": 20,
+          "width": 290.9375,
+          "height": 96
+        },
+        {
+          "x": 96,
+          "y": 156.375,
+          "width": 672.5,
+          "height": 96
+        }
+      ]
+    }
+  },
+  "dismissal": {
+    "text": "In a statement on X, Ms Badenoch said: \"I have sacked Robert Jenrick from the shadow cabinet, removed the whip and suspended his party membership with immediate effect.",
+    "width": 2704,
+    "height": 409.125,
+    "spans": {
+      "sacked Robert Jenrick from the shadow cabinet": [
+        {
+          "x": 1808.0625,
+          "y": 20,
+          "width": 527.75,
+          "height": 96
+        },
+        {
+          "x": 96,
+          "y": 156.375,
+          "width": 1193.6875,
+          "height": 96
+        }
+      ],
+      "removed the whip": [
+        {
+          "x": 1320.8125,
+          "y": 156.375,
+          "width": 656.875,
+          "height": 96
+        }
+      ],
+      "suspended his party membership with immediate effect": [
+        {
+          "x": 2154,
+          "y": 156.375,
+          "width": 411.25,
+          "height": 96
+        },
+        {
+          "x": 96,
+          "y": 292.75,
+          "width": 1621.875,
+          "height": 96
+        }
+      ]
+    }
+  }
+}
