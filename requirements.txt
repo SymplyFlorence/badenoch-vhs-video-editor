@@ -1,0 +1,1 @@
+# Python standard library only; ffmpeg and ffprobe must be installed as executables.
