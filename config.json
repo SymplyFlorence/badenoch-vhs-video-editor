@@ -1,0 +1,28 @@
+{
+  "drive_project": "/content/drive/MyDrive/Badenoch_VHS_Project",
+  "raw_folder": "Raw video",
+  "raw_file": "Copy of Badenoch RUTHLESSLY DESTROYED In Commons As Jenri.mp4",
+  "source_start": 387.96,
+  "source_end": 416.06,
+  "target_seconds": 30,
+  "frame_size": "1920x1080",
+  "fps": 30,
+  "evidence": [
+    {
+      "file": "evidence_01.png",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "file": "evidence_02.png",
+      "start": 12,
+      "end": 16
+    },
+    {
+      "file": "evidence_03.png",
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "notes": "All time offsets for evidence are relative to selected clip. Replace placeholders with verified, licensed news materials before final submission."
+}
