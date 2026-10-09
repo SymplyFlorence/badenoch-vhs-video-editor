@@ -37,7 +37,7 @@ def main():
     duration = end-start
     # Work from precise segment, with a final 1.9s hold on last frame;
     # no altered spoken words, music, or evidence added automatically.
-    command=["ffmpeg","-y","-ss",str(start),"-i",str(video),
+    command=["ffmpeg","-y","-ss",str(start),"-t",str(duration),"-i",str(video),
        "-filter_complex",
        f"[0:v]fps=30,scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,tpad=stop_mode=clone:stop_duration={max(0,30-duration):.3f},trim=duration=30,format=yuv420p[v];"
        f"[0:a]aresample=async=1:first_pts=0,apad,atrim=duration=30[a]",
